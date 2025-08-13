@@ -3,7 +3,7 @@
 
 <br>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Engineer;Mobile+App+Developer;Java+Developer;React+Developer;React+Native+Developer;Spring+Boot+Developer;Innovation+Specialist" alt="Typing SVG" /> 
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Engineer;Mobile+App+Developer;Software+Developer" alt="Typing SVG" /> 
 
 <br>
 
@@ -30,8 +30,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yrukshan&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yrukshan&custom_title=📊%20Rukshan's%20Contribution%20Graph&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=a8e6cf&area=true&hide_border=true&area_color=00d4ff" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yrukshan&limit=5&theme=darcula&combine_all_yearly_contributions=true)
