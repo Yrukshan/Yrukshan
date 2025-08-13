@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/rukshan-ekanayake-963b5a35b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yrukshan345@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yrukshan345@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
