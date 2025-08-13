@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-<h1>👋 I'm Rukshan Ekanayake</h1> <br>🎓 Software Engineering Undergraduate @ SLIIT<br>🌱 Exploring Spring Boot & Advanced Java<br>💼 Building Scalable Full-Stack Web Applications<br>💬 Focused On: Mobile Development | Beautiful Interfaces | Scalable Solutions<br>📫 Reach Me: yrukshan345@gmail.com<br>🚀 Driven by Passionate about software engineering and creating impactful solutions<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
+<h1>👋 I AM RUKSHAN EKANAYAKE</h1> <br>🎓 Software Engineering Undergraduate @ SLIIT<br>🌱 Exploring Spring Boot & Advanced Java<br>💼 Building Scalable Full-Stack Web Applications<br>💬 Focused On: Mobile Development | Beautiful Interfaces | Scalable Solutions<br>📫 Reach Me: yrukshan345@gmail.com<br>🚀 Driven by Passionate about software engineering and creating impactful solutions<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 </div>
 
