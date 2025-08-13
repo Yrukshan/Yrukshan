@@ -1,15 +1,31 @@
+<div align="center">
+
 # 💫 About Me:
-👋 I'm Rukshan Ekanayake<br>🎓 Software Engineering Undergraduate @ SLIIT<br>🌱 Exploring Spring Boot & Advanced Java<br>💼 Building Scalable Full-Stack Web Applications<br>💬 Focused On: Mobile Development | Beautiful Interfaces | Scalable Solutions<br>📫 Reach Me: yrukshan345@gmail.com<br>🚀 Driven by Passionate about software engineering and creating impactful solutions<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
+<h1>👋 I'm Rukshan Ekanayake</h1> <br>🎓 Software Engineering Undergraduate @ SLIIT<br>🌱 Exploring Spring Boot & Advanced Java<br>💼 Building Scalable Full-Stack Web Applications<br>💬 Focused On: Mobile Development | Beautiful Interfaces | Scalable Solutions<br>📫 Reach Me: yrukshan345@gmail.com<br>🚀 Driven by Passionate about software engineering and creating impactful solutions<br>⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+</div>
 
 <br>
+
+<div align="center">
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Engineer;Mobile+App+Developer;Software+Developer" alt="Typing SVG" /> 
 
+</div>
+
 <br>
+
+<div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=awantha2003&color=0e75b6&style=flat)
 
-## 🏆 GitHub Trophies
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Yrukshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
@@ -31,7 +47,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yrukshan&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📊 Contribution Graph
+## 📊 Contribution Graph:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yrukshan&custom_title=📊%20Rukshan's%20Contribution%20Graph&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=a8e6cf&area=true&hide_border=true&area_color=00d4ff" width="100%"/>
@@ -41,15 +57,16 @@
 </tr>
 </table>
 
-
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Yrukshan&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yrukshan&icon=9&color=7)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
