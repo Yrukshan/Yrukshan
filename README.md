@@ -15,33 +15,14 @@
 
 <br>
 
-<!-- Connect With Me Section -->
-<section style="max-width:600px;margin:20px auto;padding:20px;font-family:Arial,sans-serif;">
+<div align="center"> 
+## 📫 Connect With Me
 
-  <h3 style="color:#111;font-size:1.5em;margin-bottom:15px;">📫 Connect With Me</h3>
+  🌐 Portfolio: https://rukshan-portfolio-wheat.vercel.app  
+  💼 LinkedIn: https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b  
+  🧑‍💻 GitHub: https://github.com/Yrukshan  
 
-  <div style="display:flex;flex-direction:column;gap:10px;">
-
-    <!-- Portfolio -->
-    <a href="https://rukshan-portfolio-wheat.vercel.app" target="_blank" 
-       style="display:inline-block;padding:10px 18px;background:#000;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-       🌐 View Portfolio
-    </a>
-
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b" target="_blank" 
-       style="display:inline-block;padding:10px 18px;background:#0A66C2;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-       💼 LinkedIn
-    </a>
-
-    <!-- GitHub -->
-    <a href="https://github.com/Yrukshan" target="_blank" 
-       style="display:inline-block;padding:10px 18px;background:#24292e;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-       🧑‍💻 GitHub
-    </a>
-
-  </div>
-</section>
+</div>
 
 <br>
 
