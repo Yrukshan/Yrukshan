@@ -65,7 +65,7 @@
 
 
 ### 🔝 Top Contributed Repo:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yrukshan&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yrukshan&layout=compact&theme=darcula)
 
 ## 📊 GitHub Stats
 
