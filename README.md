@@ -15,32 +15,33 @@
 
 <br>
 
-<!-- Connect With Me -->
-<h3 style="margin-top:25px;color:#111;">📫 Connect With Me</h3>
-<div style="display:flex;flex-direction:column;gap:10px;">
+<!-- Connect With Me Section -->
+<section style="max-width:600px;margin:20px auto;padding:20px;font-family:Arial,sans-serif;">
 
-  <a href="https://rukshan-portfolio-wheat.vercel.app" target="_blank" 
-     style="padding:10px 18px;background:#000;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-     🌐 Portfolio
-  </a>
+  <h3 style="color:#111;font-size:1.5em;margin-bottom:15px;">📫 Connect With Me</h3>
 
-  <a href="https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b" target="_blank" 
-     style="padding:10px 18px;background:#0A66C2;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-     💼 LinkedIn
-  </a>
+  <div style="display:flex;flex-direction:column;gap:10px;">
 
-  <a href="https://github.com/Yrukshan" target="_blank" 
-     style="padding:10px 18px;background:#24292e;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-     🧑‍💻 GitHub
-  </a>
+    <!-- Portfolio -->
+    <a href="https://rukshan-portfolio-wheat.vercel.app" target="_blank" 
+       style="display:inline-block;padding:10px 18px;background:#000;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+       🌐 View Portfolio
+    </a>
 
-  <!-- WordPress Link Added -->
-  <a href="http://rukshan58.wordpress.com/" target="_blank" 
-     style="padding:10px 18px;background:#21759B;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
-     📝 WordPress
-  </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b" target="_blank" 
+       style="display:inline-block;padding:10px 18px;background:#0A66C2;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+       💼 LinkedIn
+    </a>
 
-</div>
+    <!-- GitHub -->
+    <a href="https://github.com/Yrukshan" target="_blank" 
+       style="display:inline-block;padding:10px 18px;background:#24292e;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+       🧑‍💻 GitHub
+    </a>
+
+  </div>
+</section>
 
 <br>
 
