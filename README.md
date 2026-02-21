@@ -16,12 +16,12 @@
 <br>
 
 <div align="center"> 
-## 📫 Connect With Me
+# 📫 Connect With Me:
 
   🌐 Portfolio: https://rukshan-portfolio-wheat.vercel.app  
   💼 LinkedIn: https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b  
   🧑‍💻 GitHub: https://github.com/Yrukshan  
-
+  📝 WordPress: http://rukshan58.wordpress.com/
 </div>
 
 <br>
