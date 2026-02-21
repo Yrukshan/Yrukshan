@@ -21,6 +21,9 @@
   💼 LinkedIn: https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b  
   🧑‍💻 GitHub: https://github.com/Yrukshan  
   📝 WordPress: http://rukshan58.wordpress.com/
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://rukshan-portfolio-wheat.vercel.app)
+
 </div>
 
 <br>
