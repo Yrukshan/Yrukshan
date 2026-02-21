@@ -55,7 +55,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yrukshan&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yrukshan&show_icons=true&theme=darcula&hide_border=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yrukshan&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yrukshan&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
