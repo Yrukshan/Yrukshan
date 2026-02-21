@@ -67,6 +67,12 @@
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Yrukshan&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yrukshan&show_icons=true&theme=darcula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yrukshan&layout=compact&theme=darcula)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Yrukshan&icon=9&color=7)](https://visitcount.itsvg.in)
 
