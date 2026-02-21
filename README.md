@@ -36,7 +36,7 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yrukshan&theme=radical&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=Yrukshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐 Socials:
