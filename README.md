@@ -69,9 +69,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yrukshan&show_icons=true&theme=darcula)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Yrukshan&theme=darcula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Yrukshan&layout=compact&theme=darcula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Yrukshan&layout=compact&theme=darcula&cache_seconds=86400)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yrukshan&icon=9&color=7)](https://visitcount.itsvg.in)
