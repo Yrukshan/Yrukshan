@@ -15,13 +15,30 @@
 
 <br>
 
-<div align="center">
-  
-## 📫 Connect With Me
+<!-- Connect With Me -->
+<h3 style="margin-top:25px;color:#111;">📫 Connect With Me</h3>
+<div style="display:flex;flex-direction:column;gap:10px;">
 
-- 🌐 Portfolio: https://rukshan-portfolio-wheat.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b  
-- 🧑‍💻 GitHub: https://github.com/Yrukshan
+  <a href="https://rukshan-portfolio-wheat.vercel.app" target="_blank" 
+     style="padding:10px 18px;background:#000;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+     🌐 Portfolio
+  </a>
+
+  <a href="https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b" target="_blank" 
+     style="padding:10px 18px;background:#0A66C2;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+     💼 LinkedIn
+  </a>
+
+  <a href="https://github.com/Yrukshan" target="_blank" 
+     style="padding:10px 18px;background:#24292e;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+     🧑‍💻 GitHub
+  </a>
+
+  <!-- WordPress Link Added -->
+  <a href="http://rukshan58.wordpress.com/" target="_blank" 
+     style="padding:10px 18px;background:#21759B;color:#fff;text-decoration:none;border-radius:6px;text-align:center;">
+     📝 WordPress
+  </a>
 
 </div>
 
