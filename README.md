@@ -22,8 +22,6 @@
   🧑‍💻 GitHub: https://github.com/Yrukshan  
   📝 WordPress: http://rukshan58.wordpress.com/
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://rukshan-portfolio-wheat.vercel.app)
-
 </div>
 
 <br>
@@ -43,8 +41,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yrukshan345@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://rukshan-portfolio-wheat.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-%23242A2E.svg?logo=github&logoColor=white)](https://github.com/Yrukshan) [![WordPress](https://img.shields.io/badge/WordPress-%23177BB5.svg?logo=wordpress&logoColor=white)](http://rukshan58.wordpress.com/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rukshan-ekanayake-963b5a35b/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yrukshan345@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://rukshan-portfolio-wheat.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-%23242A2E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Yrukshan) [![WordPress](https://img.shields.io/badge/WordPress-%23177BB5.svg?logo=wordpress&logoColor=white&style=for-the-badge)](http://rukshan58.wordpress.com/)
 
 <!-- Snake Game Repo View -->
 
